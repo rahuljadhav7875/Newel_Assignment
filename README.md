@@ -41,8 +41,7 @@ ng serve -o
 ##### Edit Employee
 ![alt text](https://github.com/BalaPatil92/Angular8_WebAPI_MSSQL/blob/main/Images/EditEmployee.png)
 
-##### Video demo
-[![Watch the video](https://github.com/BalaPatil92/Angular8_WebAPI_MSSQL/blob/main/Images/EmployeeList.png](http://srecorder.com/s/jy7m)
+
 
 
 
