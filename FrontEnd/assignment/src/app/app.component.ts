@@ -35,7 +35,7 @@ export class AppComponent implements OnInit {
   }
 
   showEditEmployeeForm(employee: Employee) {
-    debugger;
+   
     if (!employee) {
       this.employeeForm = false;
       return;
